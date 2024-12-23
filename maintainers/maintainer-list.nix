@@ -12585,6 +12585,11 @@
     githubId = 45168934;
     name = "Louis Blin";
   };
+  lcwllmr = {
+    name = "Luca Wellmeier";
+    github = "lcwllmr";
+    githubId = 159539641;
+  };
   lde = {
     email = "lilian.deloche@puck.fr";
     github = "lde";
